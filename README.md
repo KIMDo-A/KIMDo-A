@@ -1,11 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=KimDOA%20&fontSize=90)
+# 👋 도아 Doa KIM
 
-# 이력서 링크
 
-[이력서 PDF 보기]
-[간단한 이력서 링크]
-
----
 ## ✨ Tech Stack ✨ 
 <table>
     <tr>
@@ -65,13 +60,6 @@
         </td>
     </tr>
 </table>
-
-
-
-## 🔭 All about my GitHub
-<a href="https://github.com/KIMDo-A">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeon820&layout=compact&langs_count=8&card_width=320" style="border:none;" />
-</a>
 
 ---
 ### Project 1. [**딥러닝 기반 생체신호 분석 및 부정맥 검출 서비스**](https://github.com/2024-SMHRD-IS-IOT-3/PP)
