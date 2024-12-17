@@ -25,6 +25,7 @@
     <tr>
         <td>프레임워크</td>
         <td>
+            <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
             <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
             <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white"/>
             <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/>
@@ -43,8 +44,9 @@
     <tr>
         <td>개발도구</td>
         <td>
-            <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/>
+             <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white"/>
             <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/>           
         </td>
     </tr>
     <tr>
@@ -67,35 +69,9 @@
 
 
 ## 🔭 All about my GitHub
-<a href="https://github.com/seongffm">
+<a href="https://github.com/KIMDo-A">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeon820&layout=compact&langs_count=8&card_width=320" style="border:none;" />
 </a>
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jvcki7)](https://solved.ac/jvcki7/)
-
-
-<!--
-## 🌱 Github Stats
-
-
-
-**seongffm/seongffm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 전체 프로젝트 PDF
-[프로젝트 전체 PDF 보기](https://github.com/seongffm/resume/blob/main/%EA%B9%80%EC%84%B1%ED%9B%88_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
 ---
 
@@ -114,9 +90,9 @@ Here are some ideas to get you started:
 - **2024년 6월 24일 ~ 2024년 8월 21일 (9주)**
 
 ## 담당 역할
-- **Back-End** 개발
-- **DB** 설계 및 관리
+
 - **Front-End** 개발
+- **Back-End** 개발
 
 
 
@@ -124,15 +100,15 @@ Here are some ideas to get you started:
 
 ---
 
-# 스마트홈 기술을 활용한 반려동물 케어 서비스
+# 공사장 현장 근무자의 안전모 착용 모니터링 시스템
 
-[스마트홈 프로젝트 리포지토리 링크](https://github.com/2024-SMHRD-IS-IOT-3/GodRepo)
+[스마트홈 프로젝트 리포지토리 링크](https://github.com/2024-SMHRD-IS-IOT-3/First_Repository)
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/flask-2.0.0-brightgreen)](https://flask.palletsprojects.com/)
 
 ## 개요
-이 프로젝트는 스마트홈 기술을 기반으로 반려동물을 위한 웹 서비스를 제공합니다. 사용자는 반려동물의 사료 제공을 관리하고 체중 데이터를 시각화할 수 있으며, 커뮤니티 기능을 통해 다른 사용자들과 정보를 공유할 수 있습니다.
+작업중인 근무자의 안전모 착용 여부를 실시간으로 모니터링하고, 공사장 내 근로자의 위치와 작업 환경을 관리자가 효율적으로 관리할 수 있도록 지원하는 IoT 기반 대시보드형 웹페이지
 
 ## 개발 기간
 - **2024년 4월 29일 ~ 2024년 5월 24일 (4주)**
