@@ -74,46 +74,25 @@
 </a>
 
 ---
-
-# 딥러닝 기반 생체신호 분석 및 부정맥 검출 서비스
-
-[딥러닝 프로젝트 리포지토리 링크](https://github.com/2024-SMHRD-IS-IOT-3/PP)
-
-[![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE) 
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Node.js](https://img.shields.io/badge/node.js-v14.0.0-brightgreen)](https://nodejs.org/)
-
-## 개요
-이 프로젝트는 웨어러블 기기를 활용하여 병원 외부에서 심전도(ECG) 신호를 수집하고, 심혈관계 질환 의심 환자의 부정맥을 실시간으로 검출하는 서비스를 제공합니다. 사용자는 실시간으로 데이터를 모니터링하고 부정맥 발생 시 즉시 알림을 받을 수 있습니다.
-
-## 개발 기간
-- **2024년 6월 24일 ~ 2024년 8월 21일 (9주)**
-
-## 담당 역할
-
-- **Front-End** 개발
-- **Back-End** 개발
-
-
-
-
+### Project 1. [**딥러닝 기반 생체신호 분석 및 부정맥 검출 서비스**](https://github.com/2024-SMHRD-IS-IOT-3/PP)
+- **소개** : 심혈관계 질환이 의심되는 환자가 병원 외부의 가정이나 직장에서 웨어러블 장치를 통해 실시간으로 심전도(ECG) 신호를 수집하고, 이를 기반으로 지속적으로 모니터링하여 심장질환, 특히 부정맥을 정확하고 편리하게 검출 할 수 있는 서비스 애플리케이션
+- **개발 기간**: 2024년 6월 24일 ~ 2024년 8월 21일 (9주)
+- **개발 환경**: Flutter(FE), Node.js(BE), Express.js(BE), MySQL, AWS, Flask
+- **주요 기술**:
+  - 실시간 데이터(ECG,심박수,산소포화도) 시각화
+  - 사용자 인증 (JWT)
+  - 날짜별 사용자 기록 조회
+  - 진단 결과 PDF다운로드
+  - 사용자 위치 기반 근처 병원 정보 조회
+- **담당 역할**: Front-End, Back-End
 
 ---
+### Project 2. [**공사장 현장 근무자의 안전모 착용 모니터링 시스템**](https://github.com/2024-SMHRD-IS-IOT-3/First_Repository)
+- **소개** : 작업중인 근무자의 안전모 착용 여부를 실시간으로 모니터링하고, 공사장 내 근로자의 위치와 작업 환경을 관리자가 효율적으로 관리할 수 있도록 지원하는 IoT 기반 대시보드형 웹페이지
+- **개발 기간**: 2024년 4월 29일 ~ 2024년 5월 24일 (4주)
+- **개발 환경**: ReactJS(FE), Node.js(BE), Express.js(BE), Oracle, Flask
+- **주요 기술**:
+  - 실시간 데이터 시각화
+  - 근무자 관리 시스템
+- **담당 역할**: Front-End, Back-End
 
-# 공사장 현장 근무자의 안전모 착용 모니터링 시스템
-
-[스마트홈 프로젝트 리포지토리 링크](https://github.com/2024-SMHRD-IS-IOT-3/First_Repository)
-
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/flask-2.0.0-brightgreen)](https://flask.palletsprojects.com/)
-
-## 개요
-작업중인 근무자의 안전모 착용 여부를 실시간으로 모니터링하고, 공사장 내 근로자의 위치와 작업 환경을 관리자가 효율적으로 관리할 수 있도록 지원하는 IoT 기반 대시보드형 웹페이지
-
-## 개발 기간
-- **2024년 4월 29일 ~ 2024년 5월 24일 (4주)**
-
-## 담당 역할
-- **Back-End** 개발
-- **DB** 설계 및 관리
-- **Front-End** 개발
